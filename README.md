@@ -45,7 +45,7 @@ The Nim game application starts by displaying a Help Dialog with the rules of th
 - Notes that the user can set the initial pile size and change the computer’s strategy at any time.  
 - User can choose “Yes” or “No” for whether to show this dialog at startup.  
 
-![Initial Rules Dialog](src/1_Nim_Rules.png)
+![Initial Rules Dialog](./1_Nim_Rules.png)
 
 ### 2. Choosing Computer Strategy
 The application allows strategy selection from the menu bar.
@@ -57,7 +57,7 @@ The application allows strategy selection from the menu bar.
   - Greedy  
   - Random  
 
-![Strategy Menu](src/2_Strategy_Menu.png)
+![Strategy Menu](./2_Strategy_Menu.png)
 
 ### 3. Accessing the Help Menu
 
@@ -67,7 +67,7 @@ The application allows strategy selection from the menu bar.
   - **Help** – reopens the rules dialog  
   - **About** – displays current time and developer info  
 
-![Help Menu](src/3_Help_Menu.png)
+![Help Menu](./3_Help_Menu.png)
 
 ### 4. Starting a New Game and Pile Size Selection
 
@@ -77,7 +77,7 @@ The application allows strategy selection from the menu bar.
   - *Initial Pile Size* dropdown (shows 9, 16 & 21 options).  
   - *Who Plays First* radio buttons: Human, Computer, Random.  
 
-![Pile Size Selection](src/4_Pile_Size_Selection.png)
+![Pile Size Selection](./4_Pile_Size_Selection.png)
 
 ### 5. Taking Turns
 
@@ -87,7 +87,7 @@ The application allows strategy selection from the menu bar.
 - Game Info displays:  
   “~~ Game Info ~~ Pile size: 4”.  
 
-![Taking Turns](src/5_Taking_Turns.png)
+![Taking Turns](./5_Taking_Turns.png)
 
 ### 6. Game Over and Winner Announcement
 
@@ -97,7 +97,7 @@ The application allows strategy selection from the menu bar.
 - Both player panes disabled.  
 - Computer Player pane shows its last taken sticks.  
 
-![Winner Announced](src/6_Winner_Announced.png)
+![Winner Announced](./6_Winner_Announced.png)
 
 ---
 
