@@ -105,7 +105,6 @@ The application allows strategy selection from the menu bar.
 
 **Michael Arg**  
 📧 Email: **michgw7@gmail.com**  
-🔗 Project Link: https://github.com/michaelarg/nim_game_application_project.git  
 
 ---
 
